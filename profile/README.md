@@ -15,8 +15,6 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/kleros?color=black&label=Reddit&logo=reddit&logoColor=white)](https://www.reddit.com/r/Kleros/)
 [![kleros.eth](https://img.shields.io/static/v1?label=&message=kleros.eth&color=black&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=kleros.eth)
 
-<br/>
-
 <h3>
   <a href="https://github.com/kleros/.github/blob/master/profile/NAVIGATOR.md">
     Repositories Navigator
