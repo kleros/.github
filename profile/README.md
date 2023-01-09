@@ -74,6 +74,13 @@
       </a>
     </th>
     <th>
+      <a href="https://github.com/search?q=org%3Akleros+topic%3Avea">
+        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-vea.png" width="48">
+        <br/>
+        <b>Vea Bridge<b/>
+      </a>
+    </th>
+    <th>
       <a href="https://github.com/search?q=org%3Akleros+topic%3Amoderate">
         <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-moderate.svg" width="48">
         <br/>
@@ -103,14 +110,14 @@
     </th>
     <th>
       <a href="https://github.com/search?q=org%3Aproof-of-humanity">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/poh-logo.svg" width="48">
+        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-poh.svg" width="48">
         <br/>
         <b>Proof of Humanity<b/>
       </a>
     </th>
     <th>
       <a href="https://github.com/search?q=user%3Aandreimvp+proof-of-humanity">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/poh-logo.svg" width="48">
+        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-poh.svg" width="48">
         <br/>
         <b>Proof of Humanity v2<b/>
       </a>
