@@ -74,6 +74,13 @@
       </a>
     </th>
     <th>
+      <a href="https://github.com/search?q=org%3Akleros+topic%3Amoderate">
+        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-moderate.svg" width="48">
+        <br/>
+        <b>Moderate<b/>
+      </a>
+    </th>
+    <th>
       <a href="https://github.com/search?q=org%3Akleros+topic%3AReality">
         <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-oracle.svg" width="48">
         <br/>
