@@ -46,7 +46,7 @@
     </th>
     </th>
     <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3Agovernor">
+      <a href="https://github.com/search?q=org%3Akleros+topic%3Agovernor+fork%3Atrue+archived%3Afalse">
         <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/governor.png" width="48">
         <br/>
         <b>Governor<b/>
@@ -109,14 +109,14 @@
       </a>
     </th>
     <th>
-      <a href="https://github.com/search?q=org%3Aproof-of-humanity">
+      <a href="https://github.com/search?q=org%3Aproof-of-humanity+topic%3Aproof-of-humanity">
         <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-poh.svg" width="48">
         <br/>
         <b>Proof of Humanity<b/>
       </a>
     </th>
     <th>
-      <a href="https://github.com/search?q=user%3Aandreimvp+proof-of-humanity">
+      <a href="https://github.com/search?q=org%3Aproof-of-humanity+topic%3Aproof-of-humanity-v2">
         <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-poh.svg" width="48">
         <br/>
         <b>Proof of Humanity v2<b/>

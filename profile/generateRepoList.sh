@@ -15,6 +15,7 @@ ICONS['Governor']='src="../assets/governor.png" width="48"'
 ICONS['Gnosis-Zodiac-Reality-Governor']='src="../assets/governor.png" width="48"'
 ICONS['Dispute-Resolver']='src="../assets/symbol-dispute-resolver.svg" width="48"'
 ICONS['Generalized-Curated-List']='src="../assets/symbol-curate.svg" width="48"'
+ICONS['Curated-v2']='src="../assets/symbol-curate.svg" width="48"'
 ICONS['Token-List']='src="../assets/symbol-t2cr.svg" width="48"'
 ICONS['Reality']='src="../assets/symbol-oracle.svg" width="48"'
 ICONS['Moderate']='src="../assets/symbol-moderate.svg" width="48"'
@@ -96,7 +97,7 @@ done
 
 echo "# Arbitrated"
 renderHeaders
-for product in Dispute-Resolver Governor Gnosis-Zodiac-Reality-Governor Generalized-Curated-List Token-List Reality Moderate Vea Linguo Escrow Claim-Manager
+for product in Dispute-Resolver Governor Gnosis-Zodiac-Reality-Governor Generalized-Curated-List Curate-v2 Token-List Reality Moderate Vea Linguo Escrow Claim-Manager
 do
   echo -n "| $(renderIcon $product) **$product**"
   for layer in ${LAYERS[@]}
