@@ -15,115 +15,163 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/kleros?color=black&label=Reddit&logo=reddit&logoColor=white)](https://www.reddit.com/r/Kleros/)
 [![kleros.eth](https://img.shields.io/static/v1?label=&message=kleros.eth&color=black&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=kleros.eth)
 
-<h3>
-  <a href="https://github.com/kleros/.github/blob/master/profile/NAVIGATOR.md">
-    Repositories Navigator
-  </a>
-</h3>
+  <h3>
+    <a href="https://github.com/kleros/.github/blob/master/profile/NAVIGATOR.md">
+      Repositories Navigator
+    </a>
+  </h3>
+  
+  <table align="center">
+    <tr>
+      <th>
+        <h4>
+          Kleros Protocol V1
+        </h4>
+        <table align="center">
+          <tr>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3Akleros-V1">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/kleros-symbol.svg" width="48">
+                <br />
+                <b>Kleros V1<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3Adispute-resolver">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-dispute-resolver.svg"
+                  width="48">
+                <br />
+                <b>Dispute</br>Resolver<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3Agovernor+fork%3Atrue+archived%3Afalse">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/governor.png" width="48">
+                <br />
+                <b>Governor<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3Agnosis-zodiac-reality-governor">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/governor.png" width="48">
+                <br />
+                <b>Zodiac</br>SafeSnap<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3ACurated-Lists-V1">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-curate.svg" width="48">
+                <br />
+                <b>Curate V1<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+fork%3Atrue+topic%3AScout">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-curate.svg" width="48">
+                <br />
+                <b>Scout</br>Tokens<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3Amoderate">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-moderate.svg" width="48">
+                <br />
+                <b>Moderate<b />
+              </a>
+            </th>
+          </tr>
+        </table>
+        <table align="center">
+          <tr>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3AReality">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-oracle.svg" width="48">
+                <br />
+                <b>Reality V1<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3AEscrow">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-escrow.svg" width="48">
+                <br />
+                <b>Escrow<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Aproof-of-humanity+topic%3Aproof-of-humanity">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-poh.svg" width="48">
+                <br />
+                <b>Proof of</br>Humanity V1<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Aproof-of-humanity+topic%3Aproof-of-humanity-V2">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-poh.svg" width="48">
+                <br />
+                <b>Proof of</br>Humanity V2<b />
+              </a>
+            </th>
+          </tr>
+        </table>
+      </th>
+    </tr>
+  </table>
 
-<table>
-  <tr>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3Akleros-v1">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/kleros-symbol.svg" width="48">
-        <br/>
-        <b>Kleros v1<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3Akleros-v2">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/kleros-symbol.svg" width="48">
-        <br/>
-        <b>Kleros v2<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3Adispute-resolver">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-dispute-resolver.svg" width="48">
-        <br/>
-        <b>Dispute Resolver<b/>
-      </a>
-    </th>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3Agovernor+fork%3Atrue+archived%3Afalse">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/governor.png" width="48">
-        <br/>
-        <b>Governor<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3Agnosis-zodiac-reality-governor">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/governor.png" width="48">
-        <br/>
-        <b>Gnosis Zodiac</br>Reality Governor<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3AGeneralized-Curated-List">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-curate.svg" width="48">
-        <br/>
-        <b>Curate<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3AToken-List">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-t2cr.svg" width="48">
-        <br/>
-        <b>Tokens<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3Avea">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-vea.png" width="48">
-        <br/>
-        <b>Vea Bridge<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3Amoderate">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-moderate.svg" width="48">
-        <br/>
-        <b>Moderate<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3AReality">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-oracle.svg" width="48">
-        <br/>
-        <b>Reality Oracle<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3ALinguo">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-linguo.svg" width="48">
-        <br/>
-        <b>Linguo<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Akleros+topic%3AEscrow">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-escrow.svg" width="48">
-        <br/>
-        <b>Escrow<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Aproof-of-humanity+topic%3Aproof-of-humanity">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-poh.svg" width="48">
-        <br/>
-        <b>Proof of Humanity<b/>
-      </a>
-    </th>
-    <th>
-      <a href="https://github.com/search?q=org%3Aproof-of-humanity+topic%3Aproof-of-humanity-v2">
-        <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-poh.svg" width="48">
-        <br/>
-        <b>Proof of Humanity v2<b/>
-      </a>
-    </th>
-  </tr>
-</table>
+  <table align="center">
+    </tr>
+    <tr>
+      <th>
+        <h4>
+          Kleros Protocol V2
+        </h4>
+        <table>
+          <tr>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3Akleros-V2">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/kleros-symbol.svg" width="48">
+                <br />
+                <b>Kleros V2<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3ACurated-Lists-V2">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-curate.svg" width="48">
+                <br />
+                <b>Curate V2<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3AReality-V2">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-oracle.svg" width="48">
+                <br />
+                <b>Reality V2<b />
+              </a>
+            </th>
+            <th>
+              <a href="https://github.com/search?q=org%3Akleros+topic%3AEscrow-V2">
+                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-escrow.svg" width="48">
+                <br />
+                <b>Escrow V2<b />
+              </a>
+            </th>
+          </tr>
+        </table>
+      </th>
+      <th>
+        <h4>
+          Vea Protocol
+        </h4>
+        <table>
+          <th>
+            <a href="https://github.com/search?q=org%3Akleros+topic%3Avea">
+              <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/symbol-vea.png" width="48">
+              <br />
+              <b>Vea Bridge<b />
+            </a>
+          </th>
+        </table>
+      </th>
+    </tr>
+  </table>
 
 </span>
-
