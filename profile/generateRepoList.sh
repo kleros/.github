@@ -14,8 +14,9 @@ ICONS['Kleros-v2']='src="../assets/kleros-symbol.svg" width="48"'
 ICONS['Governor']='src="../assets/governor.png" width="48"'
 ICONS['Gnosis-Zodiac-Reality-Governor']='src="../assets/governor.png" width="48"'
 ICONS['Dispute-Resolver']='src="../assets/symbol-dispute-resolver.svg" width="48"'
-ICONS['Generalized-Curated-List']='src="../assets/symbol-curate.svg" width="48"'
-ICONS['Curate-v2']='src="../assets/symbol-curate.svg" width="48"'
+ICONS['Curated-Lists-v1']='src="../assets/symbol-curate.svg" width="48"'
+ICONS['Curated-Lists-v2']='src="../assets/symbol-curate.svg" width="48"'
+ICONS['Scout']='src="../assets/symbol-curate.svg" width="48"'
 ICONS['Token-List']='src="../assets/symbol-t2cr.svg" width="48"'
 ICONS['Reality']='src="../assets/symbol-oracle.svg" width="48"'
 ICONS['Moderate']='src="../assets/symbol-moderate.svg" width="48"'
@@ -97,7 +98,7 @@ done
 
 echo "# Arbitrated"
 renderHeaders
-for product in Dispute-Resolver Governor Gnosis-Zodiac-Reality-Governor Generalized-Curated-List Curate-v2 Token-List Reality Moderate Vea Linguo Escrow Claim-Manager
+for product in Dispute-Resolver Governor Gnosis-Zodiac-Reality-Governor Curated-Lists-v1 Curated-Lists-v2 Scout Token-List Reality Moderate Vea Escrow Linguo Claim-Manager
 do
   echo -n "| $(renderIcon $product) **$product**"
   for layer in ${LAYERS[@]}
