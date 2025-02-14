@@ -1,7 +1,7 @@
 <span align="center">
   <p align="center">
     <a href="https://kleros.io">
-      <img alt="Kleros" src="https://github.com/kleros/court/blob/master/public/icon-512.png?raw=true" width="128">
+      <img alt="Kleros" src="https://raw.githubusercontent.com/kleros/.github/refs/heads/master/assets/kleros-symbol2.svg" width="128">
     </a>
   </p>
 
@@ -31,7 +31,7 @@
           <tr>
             <th>
               <a href="https://github.com/search?q=org%3Akleros+topic%3Akleros-V1">
-                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/kleros-symbol.svg" width="48">
+                <img src="https://raw.githubusercontent.com/kleros/.github/refs/heads/master/assets/kleros-symbol2.svg" width="48">
                 <br />
                 <b>Kleros V1<b />
               </a>
@@ -128,7 +128,7 @@
           <tr>
             <th>
               <a href="https://github.com/search?q=org%3Akleros+topic%3Akleros-V2">
-                <img src="https://raw.githubusercontent.com/kleros/.github/master/assets/kleros-symbol.svg" width="48">
+                <img src="https://raw.githubusercontent.com/kleros/.github/refs/heads/master/assets/kleros-symbol2.svg" width="48">
                 <br />
                 <b>Kleros V2<b />
               </a>
