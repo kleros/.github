@@ -31,7 +31,7 @@
           <tr>
             <th>
               <a href="https://github.com/search?q=org%3Akleros+topic%3Akleros-V1">
-                <img src="https://raw.githubusercontent.com/kleros/.github/refs/heads/master/assets/kleros-symbol2.svg" width="48">
+                <img src="https://raw.githubusercontent.com/kleros/.github/refs/heads/master/assets/kleros-symbol2-purple-light.svg" width="48">
                 <br />
                 <b>Kleros V1<b />
               </a>
@@ -128,7 +128,7 @@
           <tr>
             <th>
               <a href="https://github.com/search?q=org%3Akleros+topic%3Akleros-V2">
-                <img src="https://raw.githubusercontent.com/kleros/.github/refs/heads/master/assets/kleros-symbol2.svg" width="48">
+                <img src="https://raw.githubusercontent.com/kleros/.github/refs/heads/master/assets/kleros-symbol2-purple-light.svg" width="48">
                 <br />
                 <b>Kleros V2<b />
               </a>
